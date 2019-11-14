@@ -1,6 +1,9 @@
 # area-data
 中国行政区域数据(含港澳台)
 
+## v6
+更新2018年省市区数据
+
 ## v5
 * 更改新的数据来源：[area-puppeteer](https://github.com/dwqs/area-puppeteer)
 * 在实用性上对数据作了格式化处理，见[area-puppeteer#format.js](https://github.com/dwqs/area-puppeteer/blob/master/format.js#L16)

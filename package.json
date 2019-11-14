@@ -1,6 +1,6 @@
 {
-  "name": "area-data",
-  "version": "5.0.6",
+  "name": "@guaneagler/area-data",
+  "version": "6.0.0",
   "author": "pomysky@gmail.com",
   "description": "中国省、市、区数据(含港澳台)",
   "license": "MIT",
@@ -8,7 +8,7 @@
   "private": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/dwqs/area-data.git"
+    "url": "git+https://github.com/dwqs/area-data.git"
   },
   "bugs": {
     "url": "https://github.com/dwqs/area-data/issues"
@@ -32,5 +32,9 @@
   "devDependencies": {
     "lodash": "^4.17.4"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "homepage": "https://github.com/dwqs/area-data#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
